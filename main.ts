@@ -1,6 +1,6 @@
 function Rps () {
     OLED.clear()
-    OLED.writeStringNewLine("Player1" + Player1)
+    OLED.writeStringNewLine("Player1 " + Player1)
     OLED.newLine()
     OLED.writeStringNewLine("player2 " + Player2)
     OLED.newLine()
